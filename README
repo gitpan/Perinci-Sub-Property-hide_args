@@ -1,0 +1,44 @@
+NAME
+    Perinci::Sub::Property::hide_args - Hide arguments
+
+VERSION
+    This document describes version 0.01 of
+    Perinci::Sub::Property::hide_args (from Perl distribution
+    Perinci-Sub-Property-hide_args), released on 2014-06-15.
+
+SYNOPSIS
+     # in function metadata
+     hide_args => [qw/arg1 arg2/],
+
+DESCRIPTION
+    This property can hide some arguments from function, so they are assumed
+    to not exist.
+
+SEE ALSO
+    Perinci
+
+HOMEPAGE
+    Please visit the project's homepage at
+    <https://metacpan.org/release/Perinci-Sub-Property-hide_args>.
+
+SOURCE
+    Source repository is at
+    <https://github.com/sharyanto/perl-Perinci-Sub-Property-hide_args>.
+
+BUGS
+    Please report any bugs or feature requests on the bugtracker website
+    <https://rt.cpan.org/Public/Dist/Display.html?Name=Perinci-Sub-Property-
+    hide_args>
+
+    When submitting a bug or request, please include a test-file or a patch
+    to an existing test-file that illustrates the bug or desired feature.
+
+AUTHOR
+    Steven Haryanto <stevenharyanto@gmail.com>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2014 by Steven Haryanto.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
